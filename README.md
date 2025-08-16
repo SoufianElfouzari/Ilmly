@@ -132,6 +132,7 @@ Tullab Al-Ilm ist eine Lernsoftware, die es Benutzern ermöglicht, Notizen zu er
 ❌ Styling: TailwindCSS / Styled Components implementieren  
 ❌ Formularhandling: React Hook Form / Formik implementieren  
 ❌ SEO: next-seo implementieren  
+
 ---
 
 ## Architekturübersicht
